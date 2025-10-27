@@ -88,6 +88,10 @@ Content/**
 !Content/Maps/
 !Content/Maps/**
 
+# 맵폴더도 포함
+!Content/Input/
+!Content/Input/**
+
 # (선택) 맵도 공개하려면 주석 해제
 # !Content/Maps/**
 
