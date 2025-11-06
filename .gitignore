@@ -77,6 +77,8 @@ DerivedDataCache/*
 
 # --- Track only Blueprints (and minimal essentials) ---
 
+Builds/**
+
 # Content 전체는 기본 제외
 Content/**
 
